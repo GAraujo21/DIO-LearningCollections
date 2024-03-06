@@ -55,5 +55,4 @@ public class CadastroProduto {
         // Exibindo produtos ordenados por preço
         System.out.println(cadastroProdutos.exibirPorPreco());
     }
-    }
 }
