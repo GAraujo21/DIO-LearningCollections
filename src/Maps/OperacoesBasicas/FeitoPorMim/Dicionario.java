@@ -56,6 +56,5 @@ public class Dicionario {
         }
         return "Palavra não encontrada no dicionário";
     }
-
     
 }
